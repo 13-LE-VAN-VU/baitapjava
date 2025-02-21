@@ -3,6 +3,43 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/bai1.3.iml" filepath="$PROJECT_DIR$/bai1.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bai1.4/bai1.4.iml" filepath="$PROJECT_DIR$/../bai1.4/bai1.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bai1.5/bai1.5.iml" filepath="$PROJECT_DIR$/../bai1.5/bai1.5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bai1.6/bai1.6.iml" filepath="$PROJECT_DIR$/../bai1.6/bai1.6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bai1.7/bai1.7.iml" filepath="$PROJECT_DIR$/../bai1.7/bai1.7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bai1.8/bai1.8.iml" filepath="$PROJECT_DIR$/../bai1.8/bai1.8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bai1.9/bai1.9.iml" filepath="$PROJECT_DIR$/../bai1.9/bai1.9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bai2.1/bai2.1.iml" filepath="$PROJECT_DIR$/../bai2.1/bai2.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bai2.2/bai2.2.iml" filepath="$PROJECT_DIR$/../bai2.2/bai2.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bai2.3/bai2.3.iml" filepath="$PROJECT_DIR$/../bai2.3/bai2.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bai2.4/bai2.4.iml" filepath="$PROJECT_DIR$/../bai2.4/bai2.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bai2.5/bai2.5.iml" filepath="$PROJECT_DIR$/../bai2.5/bai2.5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bai2.7/bai2.7.iml" filepath="$PROJECT_DIR$/../bai2.7/bai2.7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bai2.8/bai2.8.iml" filepath="$PROJECT_DIR$/../bai2.8/bai2.8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bai2.9/bai2.9.iml" filepath="$PROJECT_DIR$/../bai2.9/bai2.9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bai3.1/bai3.1.iml" filepath="$PROJECT_DIR$/../bai3.1/bai3.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bai3.2/bai3.2.iml" filepath="$PROJECT_DIR$/../bai3.2/bai3.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bai3.3/bai3.3.iml" filepath="$PROJECT_DIR$/../bai3.3/bai3.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bai3.4/bai3.4.iml" filepath="$PROJECT_DIR$/../bai3.4/bai3.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bai3.5/bai3.5.iml" filepath="$PROJECT_DIR$/../bai3.5/bai3.5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bai3.6/bai3.6.iml" filepath="$PROJECT_DIR$/../bai3.6/bai3.6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bai3.7/bai3.7.iml" filepath="$PROJECT_DIR$/../bai3.7/bai3.7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bai4.1/bai4.1.iml" filepath="$PROJECT_DIR$/../bai4.1/bai4.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bai4.2/bai4.2.iml" filepath="$PROJECT_DIR$/../bai4.2/bai4.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bai4.3/bai4.3.iml" filepath="$PROJECT_DIR$/../bai4.3/bai4.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bai4.4/bai4.4.iml" filepath="$PROJECT_DIR$/../bai4.4/bai4.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bai4.6/bai4.6.iml" filepath="$PROJECT_DIR$/../bai4.6/bai4.6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bai5.2/bai5.2.iml" filepath="$PROJECT_DIR$/../bai5.2/bai5.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bai6.1/bai6.1.iml" filepath="$PROJECT_DIR$/../bai6.1/bai6.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bai6.2/bai6.2.iml" filepath="$PROJECT_DIR$/../bai6.2/bai6.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bai6.3/bai6.3.iml" filepath="$PROJECT_DIR$/../bai6.3/bai6.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bai6.4/bai6.4.iml" filepath="$PROJECT_DIR$/../bai6.4/bai6.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bai6.5/bai6.5.iml" filepath="$PROJECT_DIR$/../bai6.5/bai6.5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bai6.6/bai6.6.iml" filepath="$PROJECT_DIR$/../bai6.6/bai6.6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bai7.1/bai7.1.iml" filepath="$PROJECT_DIR$/../bai7.1/bai7.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bai7.2/bai7.2.iml" filepath="$PROJECT_DIR$/../bai7.2/bai7.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bai8.1/bai8.1.iml" filepath="$PROJECT_DIR$/../bai8.1/bai8.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bai3.1/zbai2.6/zbai2.6.iml" filepath="$PROJECT_DIR$/../bai3.1/zbai2.6/zbai2.6.iml" />
     </modules>
   </component>
 </project>
